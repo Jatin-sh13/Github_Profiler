@@ -1,0 +1,41 @@
+.sign {
+    width: 50%;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 50px;
+    background-color: #fffffa;
+    box-shadow: -1px 1px 14px 1px #8888885c;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headings {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.sign-input {
+    border: 1px solid black;
+    margin-left: 132px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.sign-input1 {
+    border: 1px solid black;
+    margin-left: 132px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.signin-btn{
+    width: 100px;
+    }

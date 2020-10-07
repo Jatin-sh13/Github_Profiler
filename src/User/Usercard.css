@@ -1,0 +1,17 @@
+.card {
+    width: 100%;
+    box-shadow: -1px 1px 5px 1px #8888885c;
+}
+
+img {
+    height: 200px;
+}
+.card-text{
+    font-size: 20px;
+}
+.card-body{
+    text-align: center;
+}
+ListGroupItem{
+    margin-top: 10px;
+}
